@@ -1,0 +1,12 @@
+GEM
+  specs:
+    puma (3.8.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  puma
+
+BUNDLED WITH
+   1.14.6
